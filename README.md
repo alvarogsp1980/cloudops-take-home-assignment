@@ -5,7 +5,7 @@ This take home assignment presents a real-world challenge that is to be solved a
 
 While working on this exercise, keep in mind that it is more important to show how you worked through the design, troubleshooting issues that come up, and reasons for choosing applicable technology/tools, than simply showing the end result.
 
-This challenge should not take more than a week.
+Duration: A week
 
 If you have questions at any point of the project feel free to email Masur, mho@copperleaf.com.
 
