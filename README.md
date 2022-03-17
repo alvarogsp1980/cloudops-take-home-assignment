@@ -12,7 +12,7 @@ If you have questions at any point of the project feel free to email Masur, mho@
 ## Instructions and submission
 Please fork the project into your github account.
 
-Once you are ready to submit, send URL of the forked public repository to Copperleaf Hiring.
+Once you are ready to submit, send URL of the forked public repository to Copperleaf Recruiter you have been working with.
 
 ## Objectives
 To demonstrate knowledge of **automation and deployment technologies, tools, security, network planning, logging, metrics, monitor and any additional processes you can think of.**
